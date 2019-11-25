@@ -1,8 +1,1 @@
-= XT20
-
-XT20 is a unique one-day
-conference exploring
-the technologies of
-the past and the future
-to solve the challenges
-of the present.
+#include "frontmatter.adoc"
